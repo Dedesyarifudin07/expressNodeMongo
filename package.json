@@ -1,0 +1,19 @@
+{
+  "name": "expressnodemongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dedesyarifudin07/expressNodeMongo.git"
+  },
+  "author": "Dedesyarifudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dedesyarifudin07/expressNodeMongo/issues"
+  },
+  "homepage": "https://github.com/Dedesyarifudin07/expressNodeMongo#readme"
+}
