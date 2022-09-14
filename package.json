@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dedesyarifudin07/expressNodeMongo/issues"
   },
-  "homepage": "https://github.com/Dedesyarifudin07/expressNodeMongo#readme"
+  "homepage": "https://github.com/Dedesyarifudin07/expressNodeMongo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
